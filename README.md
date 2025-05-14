@@ -1,9 +1,9 @@
-Project FakeStoreAPI
+## Project FakeStoreAPI
 David Arroyo
 
-Universidad de Colima
-MTI - Maestría en Tecnologías de Internet
-Mayo 2025
+# Universidad de Colima
+# MTI - Maestría en Tecnologías de Internet
+# Mayo 2025
 
 # React + Vite
 
